@@ -1,0 +1,37 @@
+div {
+    background-color: rgb(238, 238, 238);
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    border: 2px solid rgb(71, 71, 71);
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.rtl-table {
+    direction: rtl;
+}
+
+th,
+td {
+    border: 1px dashed rgb(71, 71, 71);
+    /* border-collapse: collapse; */
+
+
+}
+
+th {
+    height: 70px;
+    font-size: 20px;
+    border-collapse: collapse;
+    background-color: rgb(216, 216, 216);
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
